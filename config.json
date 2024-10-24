@@ -1,0 +1,25 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/basicflask",
+        "prod_uri": "mysql://root:@localhost/basicflask",
+        "fb_url":"https://facebook.com/codingthunder",
+        "tw_url":"https://twitter.com/codingthunder",
+        "gh_url":"https://github.com/Python-World/python-mini-projects",
+        "blog_name":"Reliance Blog",
+        "tag_line":"A Blog liked by jio Users",
+        "gmail-user":"rivik0004@gmail.com",
+        "gmail-password":"uecr wkei zxsz hbta",
+        "about_text":"hi this  is all about stocks.My name is ritik. this is blog website.",
+        "no_of_posts":"3",
+        "login_image":"login.jpg",
+        "admin_user":"Ritik",
+        "admin_password": "Abc@123",
+        "upload_location": "C:\\Users\\Papis\\OneDrive\\Documents\\blog website\\static"
+
+
+    }
+
+
+}
