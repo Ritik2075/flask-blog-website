@@ -2,8 +2,8 @@
     "params":
     {
         "local_server":"False",
-        "local_uri":"mysql://root:@localhost/basicflask",
-        "prod_uri": "mysql://root:@localhost/basicflask",
+        "local_uri":"mysql://3sLKdHee4uCxW6j.root:CWfrI9uO0uLyWDIc@gateway01.ap-southeast-1.prod.aws.tidbcloud.com:4000/test",
+        "prod_uri": "mysql://3sLKdHee4uCxW6j.root:CWfrI9uO0uLyWDIc@gateway01.ap-southeast-1.prod.aws.tidbcloud.com:4000/test",
         "fb_url":"https://facebook.com/codingthunder",
         "tw_url":"https://twitter.com/codingthunder",
         "gh_url":"https://github.com/Python-World/python-mini-projects",
