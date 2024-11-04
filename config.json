@@ -1,7 +1,7 @@
 {
     "params":
     {
-        "local_server":"True",
+        "local_server":"False",
         "local_uri":"mysql://root:@localhost/basicflask",
         "prod_uri": "mysql://root:@localhost/basicflask",
         "fb_url":"https://facebook.com/codingthunder",
